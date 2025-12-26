@@ -1,0 +1,4 @@
+// Collaboration commit 23 by Valentine59 - 2025-11-08 16:30:02
+{
+  "recommendations": ["esbenp.prettier-vscode", "NomicFoundation.hardhat-solidity", "dbaeumer.vscode-eslint"]
+}

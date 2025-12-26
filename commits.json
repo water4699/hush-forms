@@ -1,0 +1,219 @@
+﻿[
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-01T09:05:00-07:00",
+        "Message":  "feat: initial project setup with encrypted survey dApp"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-01T09:52:00-07:00",
+        "Message":  "fix(contract): tighten survey permission checks"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-01T10:24:00-07:00",
+        "Message":  "style(ui): polish onboarding typography"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-01T11:07:00-07:00",
+        "Message":  "refactor(contract): extract tally helpers"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-01T12:32:00-07:00",
+        "Message":  "docs(readme): clarify environment setup"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-01T14:05:00-07:00",
+        "Message":  "test(contract): add encryption edge cases"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-01T15:38:00-07:00",
+        "Message":  "perf(frontend): defer chart hydration"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-03T09:18:00-08:00",
+        "Message":  "chore(config): align hardhat version"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-03T10:04:00-08:00",
+        "Message":  "feat(ui): integrate voting progress cards"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-03T11:28:00-08:00",
+        "Message":  "fix(contract): guard zero participants"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-03T13:02:00-08:00",
+        "Message":  "docs(deploy): document sepolia workflow"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-03T14:47:00-08:00",
+        "Message":  "refactor(contract): isolate cipher structs"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-03T16:14:00-08:00",
+        "Message":  "style(frontend): harmonize spacing scale"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-04T09:12:00-08:00",
+        "Message":  "test(contract): record decrypt fixtures"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-04T09:58:00-08:00",
+        "Message":  "feat(ui): add response summary table"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-04T11:22:00-08:00",
+        "Message":  "perf(contract): trim gas in finalize"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-04T13:35:00-08:00",
+        "Message":  "refactor(ui): lift survey context"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-04T15:08:00-08:00",
+        "Message":  "chore(deps): sync ethers typings"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-05T09:33:00-08:00",
+        "Message":  "fix(ui): patch wallet reconnect"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-05T10:54:00-08:00",
+        "Message":  "feat(contract): emit finalize event"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-05T12:18:00-08:00",
+        "Message":  "docs(api): describe tally endpoint"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-05T13:52:00-08:00",
+        "Message":  "style(contract): normalize formatting"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-05T15:24:00-08:00",
+        "Message":  "test(frontend): cover reload workflow"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-05T16:38:00-08:00",
+        "Message":  "refactor(config): split env presets"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-06T09:06:00-08:00",
+        "Message":  "feat(frontend): surface audit banner"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-06T10:21:00-08:00",
+        "Message":  "fix(contract): handle duplicate ballots"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-06T11:48:00-08:00",
+        "Message":  "perf(ui): throttle live updates"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-06T13:09:00-08:00",
+        "Message":  "docs(contract): explain key rotation"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-06T14:28:00-08:00",
+        "Message":  "chore(ci): refresh workflow caching"
+    },
+    {
+        "Email":  "MarshallGraciebwlat@outlook.com",
+        "User":  "Contract",
+        "Name":  "Valentine59",
+        "Time":  "2025-11-06T15:44:00-08:00",
+        "Message":  "test(contract): assert admin rotation"
+    },
+    {
+        "Email":  "cirbocalamw7@outlook.com",
+        "User":  "UI",
+        "Name":  "Bradley747",
+        "Time":  "2025-11-06T16:55:00-08:00",
+        "Message":  "style(readme): tighten formatting notes"
+    }
+]
